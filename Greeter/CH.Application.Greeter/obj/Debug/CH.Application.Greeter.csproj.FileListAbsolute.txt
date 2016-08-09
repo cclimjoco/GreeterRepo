@@ -1,0 +1,13 @@
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\CH.Application.Greeter.dll
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\CH.Application.Greeter.pdb
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\CH.Domain.Greeter.dll
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\Ninject.dll
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\Dapper.dll
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\CH.Domain.Greeter.pdb
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\Ninject.xml
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\Dapper.xml
+C:\myroot\Greeter\CH.Application.Greeter\obj\Debug\CH.Application.Greeter.csprojResolveAssemblyReference.cache
+C:\myroot\Greeter\CH.Application.Greeter\obj\Debug\CH.Application.Greeter.dll
+C:\myroot\Greeter\CH.Application.Greeter\obj\Debug\CH.Application.Greeter.pdb
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\log4net.dll
+C:\myroot\Greeter\CH.Application.Greeter\bin\Debug\log4net.xml

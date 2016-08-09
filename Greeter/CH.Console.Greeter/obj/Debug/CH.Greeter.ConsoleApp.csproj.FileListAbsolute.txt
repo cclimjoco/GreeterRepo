@@ -1,0 +1,6 @@
+C:\myroot\Greeter\CH.Greeter.Console\bin\Debug\CH.Greeter.Console.exe.config
+C:\myroot\Greeter\CH.Greeter.Console\obj\Debug\CH.Greeter.Console.exe
+C:\myroot\Greeter\CH.Greeter.Console\obj\Debug\CH.Greeter.Console.pdb
+C:\myroot\Greeter\CH.Greeter.Console\bin\Debug\CH.Greeter.Console.exe
+C:\myroot\Greeter\CH.Greeter.Console\bin\Debug\CH.Greeter.Console.pdb
+C:\myroot\Greeter\CH.Greeter.Console\obj\Debug\CH.Greeter.ConsoleApp.csprojResolveAssemblyReference.cache
